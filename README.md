@@ -1,7 +1,7 @@
 # Healthcare Analytics
 
 In this Project we use a processed version of the Medical Information Mart for Intensive Care (MIMIC-III) dataset that contains information relating to patients admitted 
-to critical care units at a large tertiary care hospital. In order to analyze and present the data we perform the following tasks.
+to critical care units at a large tertiary care hospital. Our main goal is to predict the duration that a patient is hospitalized and may belong in one of the 5 classes. In order to analyze and present the data we perform the following tasks.
 
 * Under `Data_Science/` we perform an initial exploratory data analysis and process of the data. Next, we work on the modeling and its evaluation.
 
